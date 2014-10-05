@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRInfoSystem.Data", "QRInfoSystem.Data\QRInfoSystem.Data.csproj", "{ABE9FF2C-4CE5-4288-A843-817258528BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRInfoSystem.Models", "QRInfoSystem.Models\QRInfoSystem.Models.csproj", "{F05BA90D-C489-4F73-A104-D5D22FA87CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRInfoSystem.Services", "QRInfoSystem.Services\QRInfoSystem.Services.csproj", "{1CE9C897-2299-436D-A845-4534A12B62D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE9FF2C-4CE5-4288-A843-817258528BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE9FF2C-4CE5-4288-A843-817258528BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE9FF2C-4CE5-4288-A843-817258528BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE9FF2C-4CE5-4288-A843-817258528BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05BA90D-C489-4F73-A104-D5D22FA87CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05BA90D-C489-4F73-A104-D5D22FA87CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05BA90D-C489-4F73-A104-D5D22FA87CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05BA90D-C489-4F73-A104-D5D22FA87CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CE9C897-2299-436D-A845-4534A12B62D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CE9C897-2299-436D-A845-4534A12B62D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CE9C897-2299-436D-A845-4534A12B62D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CE9C897-2299-436D-A845-4534A12B62D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
